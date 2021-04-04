@@ -6,5 +6,5 @@ int main()
 
 	std::cout << "Commit Test\n";
 
-	std::cout << "Commit by Second User" << endl; // 두 번째 계정의 커밋
+	std::cout << "Commit by Second User" << std::endl; // 두 번째 계정의 커밋
 }
